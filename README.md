@@ -13,5 +13,6 @@ www.antplanet.cn
 
 AntPlanet蚂蚁星球世界站点：
 
-www.antPlanet.org
+www.antplanet.org
 
+为响应国家发展区块链项目的号召，计划建立一个区块链圈子，为全球区块链行业尽微薄之力！
