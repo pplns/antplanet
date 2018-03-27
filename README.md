@@ -3,15 +3,15 @@
 
 网站信息：
 
-AntPlanet蚂蚁家园国际站点：
+AntPlanet蚂蚁国度国际站点：
 
 www.antplanet.com
 
-AntPlanet蚂蚁家园国内站点：
+AntPlanet蚂蚁国度国内站点：
 
 www.antplanet.cn
 
-AntPlanet蚂蚁家园世界站点：
+AntPlanet蚂蚁国度世界站点：
 
 www.antplanet.org
 
